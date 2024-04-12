@@ -46646,7 +46646,7 @@ r=A.eQ(p,B.K6,B.y,p,p,p,B.Ch,B.lW,p)
 q=A.a([A.ab8(B.Rc,new A.a2w(),p),A.ab8(B.Rd,new A.a2x(),p)],t.D)
 return new A.zi(new A.v6(r,!0,s,q,B.ai,new A.RW(p,p,1/0,56),p),B.LI,B.lo,p)}}
 A.a2w.prototype={
-$0(){var s=window.open("assets/Brochure.pdf","Corevault Brochure")
+$0(){var s=window.open("https://drive.google.com/file/d/1T86ZvnNrcTNun38KEasRvngeBWP_xzyT/view?usp=share_link","Corevault Brochure")
 return A.cC([A.aHH(s)],t.JJ)},
 $S:0}
 A.a2x.prototype={
